@@ -1,8 +1,8 @@
 ## Express TypeScript -  passport-google-oauth20
 
-## FOR CREDENTIALS:
-Create a project in google cloud console
-Click on create credentials then click OAuth client ID
-Fill out the information
-Add a callback url
-Save and get your credentials i.e:- google-client-id & google-client-secret
+**FOR CREDENTIALS:**
+1. Create a project in the Google Cloud Console.
+2. Click on create credentials, then click OAuth client ID.
+3. Fill out the information.
+4. Add a callback URL.
+5. Save and get your credentials, i.e., google-client-id & google-client-secret.
